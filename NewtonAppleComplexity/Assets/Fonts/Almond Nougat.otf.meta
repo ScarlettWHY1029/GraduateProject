@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: ad8f7a719c64a42e3ae60c690d182d2f
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Almond Nougat
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 75cf2186ba9214ac699d960e9a0e2a5f, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

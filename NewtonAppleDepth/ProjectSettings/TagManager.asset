@@ -1,0 +1,73 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Backgrounds
+  - Ground
+  - SpawnPoint
+  - Spawner
+  - AppleTree
+  - Border
+  - Icon
+  - IconText
+  - Canvas
+  - Event System
+  - GoldenApple
+  - RedApple
+  - RottenApple
+  - ToxicApple
+  - LevelManager
+  - Button
+  - ButtonText
+  - GameLoader
+  - GameMenu
+  - WinScreen
+  - LoseScreen
+  - BGM
+  - Data
+  - Sun
+  - Moon
+  - ParticleEffect
+  - PopUpText
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Backgrounds
+    uniqueID: 3252099761
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0

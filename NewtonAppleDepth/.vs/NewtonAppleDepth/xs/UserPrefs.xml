@@ -1,0 +1,19 @@
+﻿<Properties StartupConfiguration="{E70A3B1B-A4DA-F504-18DF-2A10F255A77B}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/BadApple.cs">
+    <Files>
+      <File FileName="Assets/Scripts/Player.cs" Line="77" Column="6" />
+      <File FileName="Assets/Scripts/PlayerData.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/GameController.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/Apple.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/BadApple.cs" Line="25" Column="45" />
+      <File FileName="Assets/Scripts/GoodApple.cs" Line="20" Column="69" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="55783c30-6169-403b-8e45-094aefebca48" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

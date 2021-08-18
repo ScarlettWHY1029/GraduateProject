@@ -1,0 +1,17 @@
+﻿<Properties StartupConfiguration="{F202BA7B-66F4-E9EF-A80D-8FD682330756}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/Player.cs">
+    <Files>
+      <File FileName="Assets/Scripts/Player.cs" Line="48" Column="1" />
+      <File FileName="Assets/Scripts/GoodApple.cs" />
+      <File FileName="Assets/Scripts/BGM.cs" />
+      <File FileName="Assets/Scripts/Spawner.cs" Line="112" Column="67" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="f6160e1a-c06a-46b2-90db-aafdf20bbc2b" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

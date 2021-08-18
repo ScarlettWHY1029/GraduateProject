@@ -1,0 +1,21 @@
+﻿<Properties StartupConfiguration="{52351773-5746-3700-2BC2-17A693EE450B}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/Items/Bad/Card.cs">
+    <Files>
+      <File FileName="Assets/Scripts/Items/Bad/BadApple.cs" Line="22" Column="68" />
+      <File FileName="Assets/Scripts/Items/Good/GoodApple.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/Items/Good/Heart.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/Items/Good/Speeder.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/Games/GameController.cs" Line="132" Column="79" />
+      <File FileName="Assets/Scripts/Items/Items/Items.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/Player/Player.cs" Line="119" Column="28" />
+      <File FileName="Assets/Scripts/Items/Bad/Card.cs" Line="21" Column="63" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="c1762b7a-afc6-433a-a406-0e7fb0da1aed" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
